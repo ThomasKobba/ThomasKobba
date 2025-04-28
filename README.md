@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thomas Kona Conteh!
+# 👋 Hi, I'm Thomas Kobba Conteh!
 
 I'm a passionate Web Developer focused on creating beautiful and functional websites and apps.
 
