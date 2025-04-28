@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Thomas Kona Conteh!
 
-<!--
-**ThomasKobba/ThomasKobba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web Developer focused on creating beautiful and functional websites and apps.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning:
+- Advanced JavaScript
+- React.js and TailwindCSS
+- Backend basics (Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills:
+- HTML5, CSS3, JavaScript (ES6+), REACT
+- Git & GitHub
+
+### 🚀 Projects:
+- Coming soon... Stay tuned! 🚀
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
